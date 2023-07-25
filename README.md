@@ -25,6 +25,7 @@ Space: 跳躍
 ## Preview  
 ![畢製](https://github.com/suu0319/Inside-The-School/assets/59763965/ae8f202c-b921-42af-85b6-3c28a906dfc1)
 ![image](https://github.com/suu0319/Inside-The-School/assets/59763965/770560c8-3d23-4c67-ad70-1040c27aa64a)
+![image](https://github.com/suu0319/Inside-The-School/assets/59763965/a95c38bc-80a7-4c85-aed6-b70b047d5369)
 
 ## Video  
 [Youtube](https://youtu.be/5y0IVB4NLoI)  
