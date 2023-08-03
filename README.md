@@ -1,4 +1,7 @@
 # Inside The School  
+## Attention
+### Git LFS Data太大，流量不夠會抓不完整
+
 ## About
 第一人稱雙人恐怖解謎遊戲，兩位學生相約半夜前往學校探索，但隨著探索的深入氣氛卻越來越詭異...  
 
