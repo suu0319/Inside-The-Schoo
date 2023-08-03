@@ -19,8 +19,8 @@ Space: 跳躍
 - Coroutine
 - NavMesh
 - PlayerPrefs
-- URP+PostProcessing
-- Photon Unity Remote
+- URP(7.5.1)+PostProcessing
+- Photon Unity Remote(PUN2)
 
 ## Preview  
 ![畢製](https://github.com/suu0319/Inside-The-School/assets/59763965/ae8f202c-b921-42af-85b6-3c28a906dfc1)
